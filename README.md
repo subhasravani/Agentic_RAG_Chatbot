@@ -73,13 +73,7 @@ This chatbot enables users to ask questions based on uploaded documents and rece
 
 ---
 
-## 📸 UI Screenshots
 
-> *Add screenshots of:*
-> - File upload interface
-> - Example question and LLM-generated answer
-
----
 
 ## 🚧 Challenges Faced
 
